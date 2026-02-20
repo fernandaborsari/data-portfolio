@@ -4,7 +4,7 @@ Welcome to my Data Portfolio repository.
 
 This repository contains data projects focused on:
 
-- Data Cleaning & ETL (Python)
+- Data Cleaning & ETL (Python and SQL)
 - SQL Analysis & Data Profiling
 - Exploratory Data Analysis (EDA)
 - Business-Oriented Analytics
