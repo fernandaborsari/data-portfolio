@@ -1,15 +1,24 @@
-# Academic Stress Project
+# Academic Stress ETL Project
 
-This project is part of my data portfolio.
+## Overview
 
-Goals:
+This project demonstrates a complete ETL pipeline using Python and pandas.
 
-- Practice Python for data cleaning
-- Practice SQL for data analysis
-- Understand and explore the dataset
+Developed using Google Colab and version-controlled with GitHub.
 
-This project will include:
+## Dataset
 
-- Python scripts
-- SQL queries
-- Data exploration
+Raw data:
+data/raw/academic_stress.csv
+
+Processed data:
+data/processed/academic_stress_clean.csv
+
+## ETL
+
+Implemented in:
+python/etl_study.ipynb
+
+## Author
+
+Fernanda Borsari Miguel
